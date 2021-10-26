@@ -8,10 +8,10 @@ I also move you to the database part, I have worked with PostgreSQL, MySQL and M
 
 <br/>
 
-<a href="https://twitter.com/H_TranquiS">
+<a target="_blank" href="https://twitter.com/H_TranquiS">
   <img align="left" alt="Hugo Tranquilino Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=5e96f7" />
 </a>
-<a href="https://www.linkedin.com/in/hugotranquilinosantiago/">
+<a target="_blank" href="https://www.linkedin.com/in/hugotranquilinosantiago/">
   <img align="left" alt="Hugo Tranquilino Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=5e96f7" />
 </a>
 <a href="mailto:isc.hugotranquilino.dev.work@gmail.com">
