@@ -1,7 +1,7 @@
 ### Hello world 👋🏼, it´s Hugo
 
 I'm a frontend developer in training, with my :heart: set on React.
-With just over 2 years of experience in the world of web development 🤘🏼.
+With just over 4 years of experience in the world of web development 🤘🏼.
 Previously I have worked the backend part with php using the codeIgniter framework.
 I also move you to the database part, I have worked with PostgreSQL, MySQL and MariaDB.
 🌟⚡
